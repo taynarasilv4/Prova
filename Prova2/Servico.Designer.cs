@@ -90,7 +90,7 @@
             // 
             comboBox1.FormattingEnabled = true;
             comboBox1.Items.AddRange(new object[] { "Dinheiro", "Pix", "Cartao" });
-            comboBox1.Location = new Point(182, 222);
+            comboBox1.Location = new Point(182, 217);
             comboBox1.Name = "comboBox1";
             comboBox1.Size = new Size(151, 28);
             comboBox1.TabIndex = 5;

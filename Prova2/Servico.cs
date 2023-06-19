@@ -26,16 +26,16 @@ namespace Prova2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
             int Dinheiro = 20;
-            int Pix = 50;
-            int Cartao = 200;
+            int Pix = 10;
+            int Cartao = 0;
 
-            
+
 
         }
 
