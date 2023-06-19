@@ -1,6 +1,6 @@
 ﻿namespace Prova2
 {
-    partial class Form1
+    partial class Tela
     {
         /// <summary>
         ///  Required designer variable.
